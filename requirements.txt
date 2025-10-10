@@ -1,0 +1,32 @@
+pdfplumber
+PyMuPDF
+pytesseract
+pillow
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+streamlit
+# Core PDF & Table Extraction
+pdfplumber==0.11.7
+PyMuPDF==1.26.4
+pandas==2.2.2
+pillow==10.3.0
+
+# OCR
+pytesseract==0.3.10
+easyocr==1.7.1
+
+# NLP & Embeddings
+sentence-transformers==5.1.1
+faiss-cpu==1.12.0
+
+# Streamlit Frontend
+streamlit==1.34.0
+
+# Optional / Testing
+pytest==8.4.2
+protobuf==4.23.4
+
+# Optional (if needed later)
+numpy==1.26.4
