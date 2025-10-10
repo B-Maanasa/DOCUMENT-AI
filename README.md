@@ -1,2 +1,3 @@
-# DOCUMENT-AI
-The Government of Telangana yearly Socio-Economic Outlook documents from year 2016-2023, is used to create an AI chatbot.
+# Telangana Socio Economic Data Chatbot
+
+This chatbot is trained on Telengana socio economic outlook data from the year 2016-2023. 
