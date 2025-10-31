@@ -1,13 +1,3 @@
-pdfplumber
-PyMuPDF
-pytesseract
-pillow
-sentence-transformers
-faiss-cpu
-pandas
-numpy
-streamlit
-# Core PDF & Table Extraction
 pdfplumber==0.11.7
 PyMuPDF==1.26.4
 pandas==2.2.2
@@ -30,3 +20,4 @@ protobuf==4.23.4
 
 # Optional (if needed later)
 numpy==1.26.4
+
